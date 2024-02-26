@@ -21,8 +21,9 @@ Embark on this learning journey with me as I share insights, explore concepts, a
 
 #### 🌐**Contact Information:**
 - **Email:** prathameshgodse0402@gmail.com 
-- **LinkedIn:** [Click Here](https://www.linkedin.com/in/prathamesh-godse-72802325a)
-- **Twitter:** [Click Here](https://x.com/Prathamesh_Gods?t=ehvYBQcrithV7h8r6Wtnbw&s=35)
+- [LinkedIn](https://www.linkedin.com/in/prathamesh-godse-72802325a)
+- [Twitter / X](https://x.com/Prathamesh_Gods?t=ehvYBQcrithV7h8r6Wtnbw&s=35)
+- [GitHub](https://github.com/Prathamesh-Godse)
 
 #### 🖋️**Education:**
 - **Bachelor of Engineering (BE):** at [MITE](https://mite.ac.in/)
